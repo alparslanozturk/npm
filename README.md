@@ -1,5 +1,5 @@
 # npm
-npm ve nodejs örnek uygulmalar.
+npm ve nodejs örnek uygulmalar. Her örnekte app1.js ve app2.js adında iki farkli uygulama vardir, Dockerfile düzenlenip build alinmalidir. 
 
 
 ## ornek1
