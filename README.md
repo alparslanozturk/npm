@@ -61,7 +61,9 @@ Successfully tagged ornek1:latest
 Bu aşamadan sonra ilgili image `` Docker run ... `` ile çalıştırılaçaktır. 
 
 
+Benim 81 nolu portum Anamakinda boş idi ona bağladım. 
 
+docker run -d --rm -p 82:80 ornek1
 
 
 
