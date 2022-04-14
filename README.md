@@ -1,5 +1,7 @@
 # npm
 npm ve nodejs örnek uygulmalar. Her örnekte app1.js ve app2.js adında iki farkli uygulama vardir, Dockerfile düzenlenip build alinmalidir.
+Diğer node uygulamaları aynı şekilde çalıştırılabilir. paket yöneticisi olarak npm/npx kullanılabilir.
+
 Örneklerde aşağıki gibi ignor edilen dizinler Dockerfile için vardir;
 
 ```
