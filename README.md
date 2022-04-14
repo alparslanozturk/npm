@@ -1,5 +1,12 @@
 # npm
-npm ve nodejs örnek uygulmalar. Her örnekte app1.js ve app2.js adında iki farkli uygulama vardir, Dockerfile düzenlenip build alinmalidir. 
+npm ve nodejs örnek uygulmalar. Her örnekte app1.js ve app2.js adında iki farkli uygulama vardir, Dockerfile düzenlenip build alinmalidir.
+Örneklerde aşağıki gibi ignor edilen dizinler Dockerfile için vardir;
+
+```
+kullan@KUHEYLAN:~/diger/npm/ornek2$ cat .dockerignore
+node_modules
+```
+
 
 
 ## ornek1
